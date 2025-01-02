@@ -1,3 +1,6 @@
+## 심화과제 링크 
+[과제파일로_가기](./2_distil_bert_advenced.ipynb)
+
 ## Q1) 어떤 task를 선택하셨나요?
 > Multi-Genre Natural Language Inference (MNLI) 태스크를 선택
 
@@ -13,7 +16,14 @@
 
 
 ## Q4) 실제로 pre-trained 모델을 fine-tuning했을 때 loss curve은 어떻게 그려지나요? 그리고 pre-train 하지 않은 Transformer를 학습했을 때와 어떤 차이가 있나요? 
-> 모델을 설계시 처음 pre-train 된 모델에서 클래스 분류 부분만 학습을 가중치 업데이트를 했지만 실제 Train-loss가 줄어들지 않았습니다.
-> 이를 해결 하기 위해 마지막 레이어 2개를 학습 시키기로 결정하였고 Train-loss가 점차적으로 줄어드는 것을 확인했습니다.
-> pre-trained 되지 않은 모델은 실제 학습 시간이 너무 올래 걸리는 문제가 있습니다.
-> 또한 적은 데이터로 학습을 시켜야하는 경우 pre-trained 되지 않은 모델의 경우 정확성이 약 30% 정도에 수렴했습니다.
+모델을 설계시 처음 pre-train 된 모델에서 클래스 분류 부분만 학습을 가중치 업데이트를 했지만 실제 Train-loss가 줄어들지 않았습니다.    
+이를 해결 하기 위해 마지막 레이어 2개를 학습 시키기로 결정하였고 Train-loss가 점차적으로 줄어드는 것을 확인했습니다.    
+pre-trained 되지 않은 모델은 실제 학습 시간이 너무 올래 걸리는 문제가 있습니다.    
+또한 적은 데이터로 학습을 시켜야하는 경우 pre-trained 되지 않은 모델의 경우 정확성이 약 30% 정도에 수렴했습니다.    
+
+## Metrix
+
+![Model accurancy_met](./accurancy_met.png)
+![Model recall](./recall_met.png)
+![Model train_loss](./train_loss_met.png)
+![Model f1](./f1socre_met.png)
