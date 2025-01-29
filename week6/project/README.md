@@ -1,6 +1,9 @@
-# 기본과제 노트파일 
-- [기본과제노트파일](6_rag_basic.ipynb)
+6주차 기본과제에 대한 코드 및 영상파일 
+----
 
-# 이미지 업로드 
+## 코드
+- [6_rag_basic.ipynb](6_rag_basic.ipynb)
+
+## 영상
 - [동영상다운로드](6_rag_basic_video.mov)
 ![6_rag_basic_video.GIF](6_rag_basic_video.GIF)
