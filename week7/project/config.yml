@@ -1,7 +1,7 @@
 app:
-  title: "SpeechNote"
-  icon: "🎤"
-  description: "SpeechNote는 음성을 텍스트로 변환하고 요약하는 도구입니다."
+  title: "상담이"
+  icon: ""
+  description: "상담이는 상담내용을 요약하고 요약된 내용을 기반으로 상담을 도와주는 Chatbot 입니다."
 
 paths:
   save_dir: "./people"
@@ -20,4 +20,25 @@ file:
 
 ui:
   default_text_height: 150
-  new_note_label: "새로운 노트" 
+  new_note_label: "상담1"
+
+transcriber:
+  openai:
+    models:
+      default: "gpt-4-turbo-preview"
+      available:
+        - "gpt-4-turbo-preview"
+        - "gpt-4"
+        - "gpt-3.5-turbo"
+        - "gpt-3.5-turbo-16k"
+    transcript_model: "whisper-1"
+  audio:
+    target_size_mb: 20
+    split_length_min: 60
+  summary_prompt: "내담자가 가장 중요시 여기는 내용을 세줄 요약해주세요."
+
+logging:
+  file_level: DEBUG
+  console_level: INFO
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  directory: 'logs'

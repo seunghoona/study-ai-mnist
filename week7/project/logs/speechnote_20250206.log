@@ -1,0 +1,1075 @@
+2025-02-06 16:17:20,586 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:17:20,588 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:17:20,608 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:17:20,608 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:17:22,708 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:17:25,883 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:17:25,886 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:17:25,906 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:17:25,906 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:17:27,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:18:30,235 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:18:30,236 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:18:30,257 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:18:30,257 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:18:31,940 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:18:35,423 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:18:35,426 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:18:35,443 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:18:35,443 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:18:36,694 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:18:38,681 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:18:38,684 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:18:38,705 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:18:38,705 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:18:39,021 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:18:39,025 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:18:39,044 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:18:39,044 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:18:39,662 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:18:39,663 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:18:39,669 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:18:39,670 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:18:39,959 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:18:40,425 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:18:41,204 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:28,089 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:28,089 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:28,091 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:28,091 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:28,100 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:28,100 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:28,100 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:28,100 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:29,310 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:29,310 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:36,913 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:36,913 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:36,917 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:36,917 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:36,936 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:36,936 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:36,937 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:36,937 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:37,104 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:37,104 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:37,107 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:37,107 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:37,127 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:37,127 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:37,127 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:37,127 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:37,289 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:37,289 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:19:37,292 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:37,292 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:19:37,308 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:37,308 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:19:37,308 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:37,308 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:19:38,119 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:38,119 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:38,516 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:38,516 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:38,740 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:19:38,740 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:20,067 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:20,067 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:20,067 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:20,069 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:20,069 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:20,069 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:20,080 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:20,080 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:20,080 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:20,080 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:20,080 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:20,080 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:21,609 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:21,609 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:21,609 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:27,571 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:27,571 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:27,571 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:27,574 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:27,574 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:27,574 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:27,593 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:27,593 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:27,593 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:27,594 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:27,594 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:27,594 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:29,700 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:29,700 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:29,700 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:30,778 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:30,778 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:30,778 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:30,781 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:30,781 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:30,781 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:30,800 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:30,800 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:30,800 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:30,800 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:30,800 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:30,800 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:32,016 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:32,016 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:32,016 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:36,291 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:36,291 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:36,291 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:20:36,295 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:36,295 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:36,295 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:20:36,306 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:36,306 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:36,306 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:20:36,306 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:36,306 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:36,306 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:20:37,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:37,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:20:37,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:02,381 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:02,381 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:02,381 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:02,381 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:02,383 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:02,383 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:02,383 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:02,383 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:02,394 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:02,394 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:02,394 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:02,394 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:02,394 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:02,394 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:02,394 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:02,394 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:03,564 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:03,564 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:03,564 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:03,564 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:10,517 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:10,517 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:10,517 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:10,517 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:10,520 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:10,520 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:10,520 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:10,520 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:10,532 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:10,532 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:10,532 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:10,532 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:10,532 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:10,532 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:10,532 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:10,532 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:12,131 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:12,131 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:12,131 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:12,131 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:30,591 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:30,591 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:30,591 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:30,591 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:30,591 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:30,592 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:30,592 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:30,592 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:30,592 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:30,592 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:30,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:30,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:30,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:30,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:30,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:30,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:30,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:30,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:30,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:30,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:31,762 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:31,762 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:31,762 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:31,762 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:31,762 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:40,122 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:40,122 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:40,122 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:40,122 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:40,122 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:40,122 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:40,123 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:40,123 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:40,123 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:40,123 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:40,123 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:40,123 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:40,136 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:40,136 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:40,136 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:40,136 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:40,136 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:40,136 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:40,136 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:40,136 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:40,136 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:40,136 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:40,136 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:40,136 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:41,518 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:41,518 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:41,518 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:41,518 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:41,518 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:41,518 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:42,925 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:42,925 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:42,925 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:42,925 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:42,925 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:42,925 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:42,929 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:42,929 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:42,929 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:42,929 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:42,929 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:42,929 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:42,948 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:42,948 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:42,948 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:42,948 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:42,948 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:42,948 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:42,948 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:42,948 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:42,948 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:42,948 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:42,948 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:42,948 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:44,165 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:44,165 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:44,165 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:44,165 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:44,165 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:44,165 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:47,842 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:47,842 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:47,842 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:47,842 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:47,842 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:47,842 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:47,845 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:47,845 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:47,845 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:47,845 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:47,845 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:47,845 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:47,864 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:47,864 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:47,864 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:47,864 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:47,864 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:47,864 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:47,864 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:47,864 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:47,864 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:47,864 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:47,864 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:47,864 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:49,383 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:49,383 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:49,383 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:49,383 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:49,383 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:49,383 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:50,060 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:50,060 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:50,060 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:50,060 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:50,060 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:50,060 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:21:50,063 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:50,063 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:50,063 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:50,063 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:50,063 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:50,063 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:21:50,076 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:50,076 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:50,076 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:50,076 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:50,076 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:50,076 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:21:50,076 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:50,076 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:50,076 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:50,076 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:50,076 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:50,076 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:21:51,421 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:51,421 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:51,421 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:51,421 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:51,421 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:21:51,421 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:06,250 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:06,250 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:06,250 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:06,250 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:06,250 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:06,250 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:06,254 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:06,254 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:06,254 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:06,254 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:06,254 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:06,254 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:06,273 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:06,273 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:06,273 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:06,273 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:06,273 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:06,273 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:06,273 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:06,273 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:06,273 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:06,273 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:06,273 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:06,273 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,274 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,274 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,274 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,274 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,274 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,274 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,275 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,275 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,275 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,275 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,275 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,275 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,282 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,282 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,282 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,282 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,282 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,282 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,283 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,283 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,283 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,283 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,283 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,283 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,565 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:07,565 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:07,565 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:07,565 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:07,565 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:07,565 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:07,753 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,753 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,753 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,753 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,753 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,753 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:07,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:07,763 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,763 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,763 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,763 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,763 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,763 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:07,763 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,763 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,763 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,763 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,763 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:07,763 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:08,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:08,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:08,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:08,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:08,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:08,659 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:09,135 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:09,135 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:09,135 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:09,135 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:09,135 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:09,135 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:10,752 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:10,752 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:10,752 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:10,752 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:10,752 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:10,752 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:10,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:10,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:10,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:10,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:10,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:10,754 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:10,766 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:10,766 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:10,766 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:10,766 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:10,766 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:10,766 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:10,766 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:10,766 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:10,766 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:10,766 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:10,766 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:10,766 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:11,592 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:11,592 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:11,592 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:11,592 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:11,592 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:11,592 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:11,593 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:11,593 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:11,593 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:11,593 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:11,593 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:11,593 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:11,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:11,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:11,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:11,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:11,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:11,601 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:11,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:11,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:11,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:11,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:11,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:11,601 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:12,077 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:12,077 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:12,077 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:12,077 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:12,077 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:12,077 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:13,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:13,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:13,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:13,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:13,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:13,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:48,865 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:48,865 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:48,865 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:48,865 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:48,865 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:48,865 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:48,868 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:48,868 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:48,868 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:48,868 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:48,868 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:48,868 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:48,881 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:48,881 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:48,881 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:48,881 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:48,881 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:48,881 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:48,881 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:48,881 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:48,881 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:48,881 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:48,881 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:48,881 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:50,047 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:50,047 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:50,047 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:50,047 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:50,047 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:50,047 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:55,765 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:55,765 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:55,765 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:55,765 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:55,765 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:55,765 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:22:55,769 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:55,769 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:55,769 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:55,769 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:55,769 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:55,769 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:22:55,778 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:55,778 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:55,778 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:55,778 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:55,778 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:55,778 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:22:55,778 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:55,778 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:55,778 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:55,778 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:55,778 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:55,778 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:22:57,082 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:57,082 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:57,082 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:57,082 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:57,082 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:22:57,082 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,471 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,473 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:14,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:15,711 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,091 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,093 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:27,103 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:28,287 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,852 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,854 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:42,865 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:44,422 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,431 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,437 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:52,455 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,035 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,037 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,052 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:53,673 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:54,226 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,158 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,161 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,181 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:23:59,182 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:00,483 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,234 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,239 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:02,256 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:03,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,170 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,175 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:24,194 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:25,603 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,989 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:47,991 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,001 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:48,002 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:24:49,159 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,743 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,747 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:02,756 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:03,947 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,856 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,860 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:10,871 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:12,160 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,263 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,270 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:13,288 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 16:25:14,478 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
