@@ -1,0 +1,17 @@
+{"time":"2025-02-04T21:39:52.017829+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/Users/naseunghoo/project/python/study-ai-mnist/week7/project/wandb/run-20250204_213951-o2oiuwil/logs/debug-core.log"}
+{"time":"2025-02-04T21:39:52.128334+09:00","level":"INFO","msg":"created new stream","id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.128378+09:00","level":"INFO","msg":"stream: started","id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.128452+09:00","level":"INFO","msg":"handler: started","stream_id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.128682+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.128714+09:00","level":"INFO","msg":"sender: started","stream_id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.383156+09:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-02-04T21:39:52.38395+09:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403 Forbidden: {\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-02-04T21:39:52.391389+09:00","level":"INFO","msg":"stream: closing","id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.391753+09:00","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-02-04T21:39:52.629044+09:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-02-04T21:39:52.629316+09:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"project /Hanghae99 not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2025-02-04T21:39:52.630181+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-04T21:39:52.630223+09:00","level":"INFO","msg":"sender: closed","stream_id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.630221+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.630337+09:00","level":"INFO","msg":"handler: closed","stream_id":"o2oiuwil"}
+{"time":"2025-02-04T21:39:52.630351+09:00","level":"INFO","msg":"stream: closed","id":"o2oiuwil"}

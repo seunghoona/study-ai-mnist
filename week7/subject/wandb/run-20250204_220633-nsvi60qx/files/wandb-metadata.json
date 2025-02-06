@@ -1,0 +1,33 @@
+{
+  "os":  "macOS-15.3-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-02-04T13:06:34.548483Z",
+  "args":  [
+    "--model_name_or_path",
+    "openai-community/openai-gpt",
+    "--per_device_train_batch_size",
+    "8",
+    "--dataset_name",
+    "wikitext",
+    "--dataset_config_name",
+    "wikitext-2-raw-v1",
+    "--do_train",
+    "--output_dir",
+    "/tmp/test-clm",
+    "--save_total_limit",
+    "1",
+    "--logging_steps",
+    "100"
+  ],
+  "program":  "/Users/naseunghoo/project/python/study-ai-mnist/week7/project/train.py",
+  "codePath":  "week7/project/train.py",
+  "git":  {
+    "remote":  "https://github.com/seunghoona/study-ai-mnist.git",
+    "commit":  "bc99f6644a46430adf47f41d3cf79ba1acaeaa92"
+  },
+  "email":  "naseunghoo@gmail.com",
+  "root":  "/Users/naseunghoo/project/python/study-ai-mnist/week7/project",
+  "host":  "seunghoo-mac-mini.local",
+  "executable":  "/opt/homebrew/anaconda3/envs/mps_env/bin/python",
+  "codePathLocal":  "train.py"
+}

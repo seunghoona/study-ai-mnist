@@ -1,0 +1,16 @@
+{
+  "os":  "macOS-15.3-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-02-04T12:42:14.635449Z",
+  "program":  "/Users/naseunghoo/project/python/study-ai-mnist/week7/project/train.py",
+  "codePath":  "week7/project/train.py",
+  "git":  {
+    "remote":  "https://github.com/seunghoona/study-ai-mnist.git",
+    "commit":  "bc99f6644a46430adf47f41d3cf79ba1acaeaa92"
+  },
+  "email":  "naseunghoo@gmail.com",
+  "root":  "/Users/naseunghoo/project/python/study-ai-mnist/week7/project",
+  "host":  "seunghoo-mac-mini.local",
+  "executable":  "/opt/homebrew/anaconda3/envs/hanghae-subject/bin/python",
+  "codePathLocal":  "train.py"
+}

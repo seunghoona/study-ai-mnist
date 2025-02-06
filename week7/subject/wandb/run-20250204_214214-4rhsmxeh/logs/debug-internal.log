@@ -1,0 +1,15 @@
+{"time":"2025-02-04T21:42:14.638665+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/Users/naseunghoo/project/python/study-ai-mnist/week7/project/wandb/run-20250204_214214-4rhsmxeh/logs/debug-core.log"}
+{"time":"2025-02-04T21:42:14.746862+09:00","level":"INFO","msg":"created new stream","id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:14.74691+09:00","level":"INFO","msg":"stream: started","id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:14.746922+09:00","level":"INFO","msg":"handler: started","stream_id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:14.747105+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:14.747282+09:00","level":"INFO","msg":"sender: started","stream_id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:15.110375+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T21:42:15.228721+09:00","level":"INFO","msg":"stream: closing","id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:15.228918+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-04T21:42:15.229222+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-04T21:42:16.982699+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-04T21:42:17.290157+09:00","level":"INFO","msg":"sender: closed","stream_id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:17.290143+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:17.290189+09:00","level":"INFO","msg":"handler: closed","stream_id":"4rhsmxeh"}
+{"time":"2025-02-04T21:42:17.290663+09:00","level":"INFO","msg":"stream: closed","id":"4rhsmxeh"}

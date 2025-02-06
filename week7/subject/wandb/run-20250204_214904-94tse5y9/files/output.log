@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/Users/naseunghoo/project/python/study-ai-mnist/week7/project/train.py", line 49, in <module>
+    args, training_args = parser.parse_args_into_dataclasses()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/anaconda3/envs/hanghae-subject/lib/python3.11/site-packages/transformers/hf_argparser.py", line 352, in parse_args_into_dataclasses
+    obj = dtype(**inputs)
+          ^^^^^^^^^^^^^^^
+  File "<string>", line 134, in __init__
+  File "/opt/homebrew/anaconda3/envs/hanghae-subject/lib/python3.11/site-packages/transformers/training_args.py", line 1772, in __post_init__
+    self.device
+  File "/opt/homebrew/anaconda3/envs/hanghae-subject/lib/python3.11/site-packages/transformers/training_args.py", line 2294, in device
+    return self._setup_devices
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/anaconda3/envs/hanghae-subject/lib/python3.11/site-packages/transformers/utils/generic.py", line 62, in __get__
+    cached = self.fget(obj)
+             ^^^^^^^^^^^^^^
+  File "/opt/homebrew/anaconda3/envs/hanghae-subject/lib/python3.11/site-packages/transformers/training_args.py", line 2167, in _setup_devices
+    raise ImportError(
+ImportError: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>=0.26.0'`
