@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from streamlit_option_menu import option_menu
 from file_manager import FileManager
-from transcriber import Transcriber
+from word2back_transcriber import Word2backTranscriber
 import yaml
 from constants import FileExtension, MimeType
 
@@ -16,12 +16,10 @@ from dotenv import load_dotenv
 # 환경 .evn 파일 불러오기
 load_dotenv()
 
-
 # 기본 디렉터리 설정
 SAVE_DIR = config["paths"]["save_dir"]
 file_manager = FileManager(SAVE_DIR)
-transcriber = Transcriber(
-    openai_api_key=os.getenv("OPENAI_API_KEY"),
+transcriber = Word2backTranscriber(
     hf_token=os.getenv("HUGGINGFACE_AUTH_TOKEN"),
 )
 

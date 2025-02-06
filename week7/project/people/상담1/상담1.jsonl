@@ -1,0 +1,73 @@
+{"start": 1.212, "end": 2.579, "label": "SPEAKER_01", "text": "요즘 건강한가요? "}
+{"start": 3.558, "end": 4.891, "label": "SPEAKER_00", "text": "네, 건강해요. "}
+{"start": 6.595, "end": 7.945, "label": "SPEAKER_01", "text": "어디를 다쳤어요? "}
+{"start": 8.975, "end": 10.291, "label": "SPEAKER_00", "text": "무릎이 까졌어요. "}
+{"start": 12.485, "end": 13.632, "label": "SPEAKER_01", "text": "언제 다쳤어요? "}
+{"start": 14.813, "end": 16.467, "label": "SPEAKER_00", "text": "한 일주일 전이요. "}
+{"start": 18.509, "end": 20.821, "label": "SPEAKER_01", "text": "언제부터 즐겁다고 못 느꼈어요? "}
+{"start": 22.778, "end": 24.668, "label": "SPEAKER_00", "text": "아빠랑 같이 살 때부터요. "}
+{"start": 26.812, "end": 29.039, "label": "SPEAKER_01", "text": "최근에 짜증이나 화가 난 적 있어요? "}
+{"start": 30.507, "end": 32.279, "label": "SPEAKER_00", "text": "아니요, 그런 적 없어요. "}
+{"start": 34.439, "end": 37.949, "label": "SPEAKER_01", "text": "그럼 짜증이나 화가 나면 어떻게 하면 마음이 풀려요? "}
+{"start": 39.215, "end": 44.277, "label": "SPEAKER_00", "text": "그냥 동생이랑 같이 놀거나 음악 들으면 좀 마음이 편안해요. "}
+{"start": 46.235, "end": 47.838, "label": "SPEAKER_01", "text": "몇 시에 자고 일어나요? "}
+{"start": 49.542, "end": 52.023, "label": "SPEAKER_00", "text": "11시에 자서 7시에 일어나요. "}
+{"start": 53.845, "end": 56.393, "label": "SPEAKER_01", "text": "아침에 일어났을 때 몸 상태는 어때요? "}
+{"start": 57.727, "end": 59.296, "label": "SPEAKER_00", "text": "그냥 계속 졸려요. "}
+{"start": 61.54, "end": 66.248, "label": "SPEAKER_01", "text": "아빠가 화 많이 내는 표정을 지는다고 했는데 그런 이유가 있는 것 같아요? "}
+{"start": 67.767, "end": 71.378, "label": "SPEAKER_00", "text": "그냥 자기가 화나면 저희한테 화풀이해요. "}
+{"start": 73.184, "end": 75.597, "label": "SPEAKER_01", "text": "그 표정을 지을 때 기분이 어때요? "}
+{"start": 77.403, "end": 79.782, "label": "SPEAKER_00", "text": "슬프기도 하고 무섭기도 해요. "}
+{"start": 82.128, "end": 84.811, "label": "SPEAKER_01", "text": "남동생이 있다고 했는데 사이가 어때요? "}
+{"start": 86.313, "end": 88.54, "label": "SPEAKER_00", "text": "동생이랑은 잘 지내고 있어요. "}
+{"start": 90.363, "end": 92.894, "label": "SPEAKER_01", "text": "아버지가 동생이랑 차별하는 것 같아요? "}
+{"start": 94.21, "end": 97.012, "label": "SPEAKER_00", "text": "아니요, 딱히 차별하진 않는 것 같아요. "}
+{"start": 98.851, "end": 101.163, "label": "SPEAKER_01", "text": "친구들이랑은 주로 몇 명이 놀아요? "}
+{"start": 102.665, "end": 106.715, "label": "SPEAKER_00", "text": "한 4명에서 5명 정도 같이 노는 것 같아요. "}
+{"start": 108.47, "end": 110.9, "label": "SPEAKER_01", "text": "담임선생님 좋아해요, 싫어해요? "}
+{"start": 112.942, "end": 115.557, "label": "SPEAKER_00", "text": "담임선생님 착하고 좋아해요, 제가. "}
+{"start": 117.717, "end": 119.607, "label": "SPEAKER_01", "text": "가장 큰 걱정이 있나요? "}
+{"start": 125.767, "end": 127.943, "label": "SPEAKER_01", "text": "아빠가 걱정되는 이유가 뭐예요? "}
+{"start": 129.833, "end": 133.141, "label": "SPEAKER_00", "text": "저랑 동생 그만 때렸으면 좋겠어요. "}
+{"start": 135.554, "end": 137.258, "label": "SPEAKER_01", "text": "요즘 행복하다고 느껴요? "}
+{"start": 138.929, "end": 139.655, "label": "SPEAKER_00", "text": "아니요. "}
+{"start": 141.663, "end": 142.692, "label": "SPEAKER_01", "text": "이유가 뭐예요? "}
+{"start": 144.768, "end": 145.865, "label": "SPEAKER_00", "text": "아빠 때문이에요. "}
+{"start": 148.463, "end": 150.134, "label": "SPEAKER_01", "text": "꿈꾸는 미래가 있을까요? "}
+{"start": 151.99, "end": 156.007, "label": "SPEAKER_00", "text": "화목한 가정을 꾸리고 대기업에 취업하고 싶어요. "}
+{"start": 158.048, "end": 159.078, "label": "SPEAKER_01", "text": "이유가 뭐예요? "}
+{"start": 161.44, "end": 166.317, "label": "SPEAKER_00", "text": "그냥 돈도 좀 벌고 가족이랑 사이 좋게 지내고 싶어요. "}
+{"start": 168.646, "end": 170.317, "label": "SPEAKER_01", "text": "아빠가 잘 챙겨주나요? "}
+{"start": 171.953, "end": 173.624, "label": "SPEAKER_00", "text": "평소에는 잘 챙겨줘요. "}
+{"start": 175.733, "end": 178.72, "label": "SPEAKER_01", "text": "인터넷이나 핸드폰은 하루에 몇 시간 정도 해요? "}
+{"start": 180.779, "end": 185.926, "label": "SPEAKER_00", "text": "6시간에서 7시간 정도 해서 아빠가 맨날 그만하라고 해요. "}
+{"start": 187.985, "end": 191.191, "label": "SPEAKER_01", "text": "아빠나 선생님 때문에 슬프거나 화가 난 적이 있어요? "}
+{"start": 193.233, "end": 195.477, "label": "SPEAKER_00", "text": "아빠가 화내면 좀 슬퍼요. "}
+{"start": 197.62, "end": 199.915, "label": "SPEAKER_01", "text": "아빠의 어떤 말이나 행동이 슬퍼요? "}
+{"start": 202.261, "end": 204.607, "label": "SPEAKER_00", "text": "저랑 동생을 계속 때려서요. "}
+{"start": 206.665, "end": 208.977, "label": "SPEAKER_01", "text": "평소에 아빠가 얼마나 자주 때려요? "}
+{"start": 211.39, "end": 217.904, "label": "SPEAKER_00", "text": "달에 3번 정도는 그래요. 눈에 보이는 걸 막 던지고 아무 곳이나 때려요. "}
+{"start": 219.929, "end": 222.393, "label": "SPEAKER_01", "text": "아빠가 때리시는 이유가 뭐라고 생각해요? "}
+{"start": 224.857, "end": 234.897, "label": "SPEAKER_00", "text": "그냥 막 갑자기 한숨 쉬시면서 술 드시다가 또 화내고 욕하다가 때리세요. 이유는 잘 모르겠어요. "}
+{"start": 236.753, "end": 238.846, "label": "SPEAKER_01", "text": "아빠한테 맞아서 얼마나 다쳤어요? "}
+{"start": 240.905, "end": 247.503, "label": "SPEAKER_00", "text": "배아파서 병원도 갔고 멍도 들고 병원 갔을 때 입원도 했었어요. "}
+{"start": 250.591, "end": 253.932, "label": "SPEAKER_01", "text": "누가 소중한 부위를 만지거나 보여달라고 한 적 있어요? "}
+{"start": 256.244, "end": 258.438, "label": "SPEAKER_00", "text": "아니요. 그런 적은 없었어요. "}
+{"start": 260.294, "end": 264.074, "label": "SPEAKER_01", "text": "집에서 어른들이 소리 지르면서 싸우는 걸 듣거나 본 적 있어요? "}
+{"start": 266.082, "end": 270.048, "label": "SPEAKER_00", "text": "아빠가 술 먹다가 그냥 혼자 소리 지르고 그래요. "}
+{"start": 272.697, "end": 275.937, "label": "SPEAKER_01", "text": "아빠가 그럴 때 집에 나와서 있어야 했던 적 있어요? "}
+{"start": 278.148, "end": 280.308, "label": "SPEAKER_00", "text": "아니요. 따로 나갔던 적은 없어요. "}
+{"start": 282.805, "end": 286.045, "label": "SPEAKER_01", "text": "이런 일 때문에 경찰이나 다른 사람이 온 적이 있어요? "}
+{"start": 288.745, "end": 299.714, "label": "SPEAKER_00", "text": "네. 신고도 했었어요. 그러면 아빠가 당분간 화를 덜 내고 그런데 그러다가 또 예전처럼 다시 똑같이 돌아가긴 해요. "}
+{"start": 301.705, "end": 304.979, "label": "SPEAKER_01", "text": "친구들이 자주 놀리거나 괴롭힌다고 느낀 적 있어요? "}
+{"start": 306.667, "end": 307.325, "label": "SPEAKER_00", "text": "아니요. "}
+{"start": 309.67, "end": 312.1, "label": "SPEAKER_01", "text": "어떨 때 마음이 복잡하거나 힘들어요? "}
+{"start": 314.007, "end": 317.298, "label": "SPEAKER_00", "text": "아빠가 화내면 마음이 좀 슬프고 그래요. "}
+{"start": 319.508, "end": 322.495, "label": "SPEAKER_01", "text": "그럴 때 괴로워서 죽고 싶다는 생각을 한 적 있어요? "}
+{"start": 324.284, "end": 328.098, "label": "SPEAKER_00", "text": "아니요. 죽으면 동생이 혼자잖아요. 제가 지켜줘야 해요. "}
+{"start": 330.697, "end": 332.536, "label": "SPEAKER_01", "text": "잘 때 어떤 꿈을 꿔요? "}
+{"start": 334.46, "end": 337.801, "label": "SPEAKER_00", "text": "모르겠어요. 꿈은 꾸는 것 같은데 기억 안 나요. "}
+{"start": 340.535, "end": 342.998, "label": "SPEAKER_01", "text": "꿈을 꾸고 일어나면 몸 상태는 어때요? "}
+{"start": 345.023, "end": 347.757, "label": "SPEAKER_00", "text": "그냥 평소랑 똑같이 졸려요. "}
+{"start": 350.778, "end": 354.187, "label": "SPEAKER_01", "text": "아빠한테 말도 없이 집에서 오랫동안 나온 적 있어요? "}
+{"start": 356.195, "end": 357.747, "label": "SPEAKER_00", "text": "아니요. 그런 적 없었어요. "}
