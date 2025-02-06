@@ -143,8 +143,10 @@ with training_args.main_process_first(desc="grouping texts together"):
         group_texts, batched=True, num_proc=args.num_workers
     )
 
-train_dataset = lm_datasets["train"]
-eval_dataset = lm_datasets["validation"] if "validation" in lm_datasets else None
+
+split_dataset = lm_datasets["train"].train_test_split(test_size=0.3)
+train_dataset = split_dataset["train"]
+eval_dataset = split_dataset["test"]
 
 trainer = Trainer(
     model=model,
