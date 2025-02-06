@@ -196,3 +196,42 @@
 2025-02-06 23:41:12,001 - SpeechNote - INFO - 화자 분리 시작
 2025-02-06 23:41:45,962 - SpeechNote - INFO - 텍스트 매칭 시작
 2025-02-06 23:41:45,967 - SpeechNote - INFO - 변환 완료: 73개 세그먼트 생성
+2025-02-06 23:57:05,572 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 23:57:05,573 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 23:57:05,595 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 23:57:05,595 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 23:57:07,338 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 23:57:26,409 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 23:57:26,413 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 23:57:26,431 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 23:57:26,431 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 23:57:27,108 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 23:57:27,114 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 23:57:27,132 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 23:57:27,132 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 23:57:27,765 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 23:57:28,488 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 23:58:59,924 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 23:58:59,926 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 23:58:59,940 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 23:58:59,940 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 23:59:01,203 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 23:59:10,350 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-06 23:59:10,353 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-06 23:59:10,371 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-06 23:59:10,371 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-06 23:59:11,575 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-06 23:59:11,579 - SpeechNote - INFO - 음성 변환 시작: 0002.mp3
+2025-02-06 23:59:11,580 - SpeechNote - INFO - 오디오 파일 변환 시작: 0002.mp3
+2025-02-06 23:59:11,580 - SpeechNote - INFO - <module 'posixpath' (frozen)>
+2025-02-06 23:59:11,580 - SpeechNote - DEBUG - 파일 크기: 2.76MB
+2025-02-06 23:59:11,580 - SpeechNote - DEBUG - 파일 분할 불필요
+2025-02-06 23:59:11,580 - SpeechNote - INFO - 단일 파일 처리
+2025-02-06 23:59:28,414 - SpeechNote - INFO - 화자 분리 시작
+2025-02-07 00:00:07,601 - SpeechNote - INFO - 텍스트 매칭 시작
+2025-02-07 00:00:07,603 - SpeechNote - INFO - 변환 완료: 73개 세그먼트 생성
+2025-02-07 00:00:23,483 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-07 00:00:23,486 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-07 00:00:23,514 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-07 00:00:23,515 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-07 00:00:24,880 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
