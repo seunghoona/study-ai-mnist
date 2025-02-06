@@ -1,10 +1,10 @@
 app:
-  title: "상담이"
+  title: "상담 Chatbot"
   icon: ""
   description: "상담이는 상담내용을 요약하고 요약된 내용을 기반으로 상담을 도와주는 Chatbot 입니다."
 
 paths:
-  save_dir: "./people"
+  save_dir: "./upload_people"
 
 file:
   allowed_audio_extensions:
@@ -35,7 +35,7 @@ transcriber:
   audio:
     target_size_mb: 20
     split_length_min: 1
-  summary_prompt: "내담자가 가장 중요시 여기는 내용을 세줄 요약해주세요."
+  summary_prompt: "현재 상태를 세줄 요약해주세요."
 
 logging:
   file_level: DEBUG

@@ -5,8 +5,8 @@ import torchaudio
 from transformers import Wav2Vec2Processor, Wav2Vec2ForCTC
 from pydub import AudioSegment
 from pyannote.audio import Pipeline
-from logger_config import setup_logger
-from file_manager import FileManager
+from common.logger_config import setup_logger
+from common.file_manager import FileManager
 
 logger = setup_logger()
 

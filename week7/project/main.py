@@ -1,25 +1,26 @@
-import streamlit as st
 import os
-from streamlit_option_menu import option_menu
-from file_manager import FileManager
-from word2back_transcriber import Word2backTranscriber
+import streamlit as st
 import yaml
-from constants import FileExtension, MimeType
 
+from streamlit_option_menu import option_menu
+from common.file_manager import FileManager
+from model.transcriber import Transcriber
+from common.constants import FileExtension, MimeType
+# 환경변수에서 API 키 로드
+from dotenv import load_dotenv
 
 # 설정 파일 로드
 with open("config.yml", "r", encoding="utf-8") as f:
     config = yaml.safe_load(f)
-# 환경변수에서 API 키 로드
-from dotenv import load_dotenv
-
+    
 # 환경 .evn 파일 불러오기
 load_dotenv()
 
 # 기본 디렉터리 설정
 SAVE_DIR = config["paths"]["save_dir"]
 file_manager = FileManager(SAVE_DIR)
-transcriber = Word2backTranscriber(
+transcriber = Transcriber(
+    openai_api_key= os.getenv("OPENAI_API_KEY"),
     hf_token=os.getenv("HUGGINGFACE_AUTH_TOKEN"),
 )
 

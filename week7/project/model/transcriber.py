@@ -5,8 +5,8 @@ import diskcache as dc
 from openai import OpenAI
 from pydub import AudioSegment
 from pyannote.audio import Pipeline
-from logger_config import setup_logger
-from file_manager import FileManager
+from common.logger_config import setup_logger
+from common.file_manager import FileManager
 
 logger = setup_logger()
 cache = dc.Cache("./cache")  # 디스크 기반 캐시 생성
