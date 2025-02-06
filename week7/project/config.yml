@@ -1,0 +1,23 @@
+app:
+  title: "SpeechNote"
+  icon: "🎤"
+  description: "SpeechNote는 음성을 텍스트로 변환하고 요약하는 도구입니다."
+
+paths:
+  save_dir: "./people"
+
+file:
+  allowed_audio_extensions:
+    - "mp3"
+    - "wav"
+    - "ogg"
+    - "flac"
+  binary_extensions:
+    - ".mp3"
+    - ".wav"
+    - ".ogg"
+    - ".flac"
+
+ui:
+  default_text_height: 150
+  new_note_label: "새로운 노트" 
