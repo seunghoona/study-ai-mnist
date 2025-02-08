@@ -7,6 +7,9 @@
 - 요약 transcriber.py 안에 `summarize` 함수를 완성했다면 SFT 확인 해볼 수 있었을 것 같은데
 우선 완성된 것 까지는 제출을 해보는게 좋을 것 같아서 제출했습니다. 
 - study 폴더에 [corpus.json](./study/train_file//corpus.json) 음성 학습을 시키기 위한 데이터를 생성했습니다.
+- train.ipynb 파일에 다른 음성 모델을 학습 처리습니다. [train.ipynb](./study/wav2vec2_finetuning/train.ipynb)
+
+
 
 ### 파일 목록
 
@@ -15,7 +18,7 @@
 | [`main.py`](./main.py)       | `/main.py`       | Streamlit 애플리케이션 메인 파일 |
 | [`transcriber.py`](./model/transcriber.py) | `model/transcriber.py` | 화자 정리 및 OpenAI API 호출 담당 클래스 |
 | [`train.ipynb`](./study/wav2vec2_finetunig/train.ipynb)       | `/study/wav2vec2_finetunig/train.ipynb`       | 모델 학습 및 평가 스크립트 |
-| [`config.yml`](./config/config.yml)    | `/config/config.yml` | 학습 파라미터 및 설정 파일 |
+| [`config.yml`](./config.yml)    | `./config.yml` | 학습 파라미터 및 설정 파일 |
 | [`file_manager.py`](./common/file_manager.py) | `/common/file_manager.py` | 파일 저장 및 불러오기 담당 클래스 |
 | [`constants.py`](./common/constants.py)   | `/common/constants.py` | 상수 정의 |
 | [`logger_config.py`](./common/logger_config.py) | `/common/logger_config.py` | 로깅 설정 |
