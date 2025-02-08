@@ -1,9 +1,26 @@
-# 20250206
+# 심화과제 제출 
 
-1. 안녕하세요 심화과제 요구사항을 적용하지 못했습니다.
-2. 너무 늦게 시작해서 이제 OPEN AI Wishper를 이용해서 처리했습니다. 
-3. 음성데이터를 통하여 음성 내용의 화자분리까지 만들었습니다.
-4. 음성데이터에 대한 지식이 부족하다보니 학습을 하면서 하다 보니 더디게 되었네요 
+- 심화과제의 요구사항대로 학습을 진행하지 못했습니다. 
+- LLM 모델로 SFT 학습을 진행하고자 했지만 음성모델을 어떤 방식으로 학습해야할지 정하지 못하여 허깅페이스에서 was2vec 모델을 학습시켰습니다. 
+
+- 음성 모델에 대해 이해하고 학습하는데 너무 시간을 많이 쏟아서 요약 부분을 완성 하지 못했습니다. 
+- 요약 transcriber.py 안에 `summarize` 함수를 완성했다면 SFT 확인 해볼 수 있었을 것 같은데
+우선 완성된 것 까지는 제출을 해보는게 좋을 것 같아서 제출했습니다. 
+- study 폴더에 [corpus.json](./study/train_file//corpus.json) 음성 학습을 시키기 위한 데이터를 생성했습니다.
+
+### 파일 목록
+
+| **파일명**        | **경로**                 | **정의 및 형식** |
+|------------------|-----------------------|----------------|
+| [`main.py`](./main.py)       | `/main.py`       | Streamlit 애플리케이션 메인 파일 |
+| [`transcriber.py`](./model/transcriber.py) | `model/transcriber.py` | 화자 정리 및 OpenAI API 호출 담당 클래스 |
+| [`train.ipynb`](./study/wav2vec2_finetunig/train.ipynb)       | `/study/wav2vec2_finetunig/train.ipynb`       | 모델 학습 및 평가 스크립트 |
+| [`config.yml`](./config/config.yml)    | `/config/config.yml` | 학습 파라미터 및 설정 파일 |
+| [`file_manager.py`](./common/file_manager.py) | `/common/file_manager.py` | 파일 저장 및 불러오기 담당 클래스 |
+| [`constants.py`](./common/constants.py)   | `/common/constants.py` | 상수 정의 |
+| [`logger_config.py`](./common/logger_config.py) | `/common/logger_config.py` | 로깅 설정 |
+| [`utils.py`](./common/utils.py)       | `/common/utils.py`     | 유틸리티 함수 모음 |
+
 
 # 1. 프로젝트 정의
 

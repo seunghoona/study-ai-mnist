@@ -1,7 +1,6 @@
 import os
 import torch
 import yaml
-import diskcache as dc
 from openai import OpenAI
 from pydub import AudioSegment
 from pyannote.audio import Pipeline
@@ -9,13 +8,11 @@ from common.logger_config import setup_logger
 from common.file_manager import FileManager
 
 logger = setup_logger()
-cache = dc.Cache("./cache")  # 디스크 기반 캐시 생성
-
 
 class Transcriber:
     """음성을 텍스트로 변환하고 요약하는 클래스"""
 
-    def __init__(self, openai_api_key, hf_token, base_dir="people"):
+    def __init__(self, openai_api_key, hf_token, base_dir="upload_people"):
         logger.info("Transcriber 초기화 시작")
         try:
 
