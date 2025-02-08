@@ -2,3 +2,5 @@
 **/.env
 **/.DS_Stroe
 **/__pycache__
+*.mp3
+*.wav
