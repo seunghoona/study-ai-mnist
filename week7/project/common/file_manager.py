@@ -16,7 +16,7 @@ class FileManager:
 
     def get_note_list(self):
         """저장된 노트 목록 반환"""
-        return os.listdir(self.base_dir)
+        return [d for d in os.listdir(self.base_dir) if os.path.isdir(os.path.join(self.base_dir, d))]
 
     def get_file_path(self, note_name, file_name):
         """노트 내 특정 파일 경로 반환"""
