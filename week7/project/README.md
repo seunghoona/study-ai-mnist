@@ -10,7 +10,8 @@
 - train.ipynb 파일에 다른 음성 모델을 학습 처리습니다. [train.ipynb](./study/wav2vec2_finetuning/train.ipynb)
 
 # 모델 STT 평가  
-
+- 각 이미지의 첫번째 모델은 학습전, 두번째는 학습 후 세번째는 wispher 모델입니다.
+- [ ] 전체 학습 모델 평가 해보기 
 <p align="center">
     <img src="./etc/first_model.png" width="30%">
     <img src="./etc/second_model.png" width="30%">
