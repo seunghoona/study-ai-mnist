@@ -9,6 +9,13 @@
 - study 폴더에 [corpus.json](./study/train_file//corpus.json) 음성 학습을 시키기 위한 데이터를 생성했습니다.
 - train.ipynb 파일에 다른 음성 모델을 학습 처리습니다. [train.ipynb](./study/wav2vec2_finetuning/train.ipynb)
 
+# 모델 STT 평가  
+
+<p align="center">
+    <img src="./etc/first_model.png" width="30%">
+    <img src="./etc/second_model.png" width="30%">
+    <img src="./etc/wispher.png" width="30%">
+</p>
 
 
 ### 파일 목록

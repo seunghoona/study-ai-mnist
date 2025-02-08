@@ -32,3 +32,27 @@
 2025-02-08 16:55:07,265 - SpeechNote - INFO - 화자 분리 시작
 2025-02-08 16:55:39,775 - SpeechNote - INFO - 텍스트 매칭 시작
 2025-02-08 16:55:39,777 - SpeechNote - INFO - 변환 완료: 73개 세그먼트 생성
+2025-02-08 22:37:22,940 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-08 22:37:22,942 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-08 22:37:22,962 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-08 22:37:22,962 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-08 22:37:24,802 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-08 22:38:05,383 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-08 22:38:05,385 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-08 22:38:05,396 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-08 22:38:05,396 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-08 22:38:06,796 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-08 22:38:08,049 - SpeechNote - INFO - Transcriber 초기화 시작
+2025-02-08 22:38:08,052 - SpeechNote - DEBUG - 설정 파일 로드 완료
+2025-02-08 22:38:08,074 - SpeechNote - DEBUG - OpenAI 클라이언트 초기화 완료
+2025-02-08 22:38:08,074 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 시작
+2025-02-08 22:38:09,553 - SpeechNote - INFO - 화자 분리 파이프라인 초기화 완료
+2025-02-08 22:38:09,564 - SpeechNote - INFO - 음성 변환 시작: /Users/naseunghoo/project/python/study-ai-mnist/week7/project/upload_people/sample/0002.wav
+2025-02-08 22:38:09,564 - SpeechNote - INFO - 오디오 파일 변환 시작: /Users/naseunghoo/project/python/study-ai-mnist/week7/project/upload_people/sample/0002.wav
+2025-02-08 22:38:09,564 - SpeechNote - INFO - <module 'posixpath' (frozen)>
+2025-02-08 22:38:09,564 - SpeechNote - DEBUG - 파일 크기: 15.22MB
+2025-02-08 22:38:09,564 - SpeechNote - DEBUG - 파일 분할 불필요
+2025-02-08 22:38:09,564 - SpeechNote - INFO - 단일 파일 처리
+2025-02-08 22:38:24,609 - SpeechNote - INFO - 화자 분리 시작
+2025-02-08 22:39:01,852 - SpeechNote - INFO - 텍스트 매칭 시작
+2025-02-08 22:39:01,854 - SpeechNote - INFO - 변환 완료: 73개 세그먼트 생성
